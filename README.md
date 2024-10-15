@@ -20,6 +20,7 @@ Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE Sys
 - [Service Discovery](https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
+- [Distributed Tracing 2](https://www.groundcover.com/microservices-observability/microservices-logging#challenges-in-microservices-logging)
 
 ## 🛠️ System Design Building Blocks
 - [Databases Types](https://blog.algomaster.io/p/15-types-of-databases)
